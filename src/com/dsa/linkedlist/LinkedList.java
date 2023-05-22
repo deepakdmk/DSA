@@ -173,7 +173,8 @@ public class LinkedList {
 			before=temp;
 			temp=after;
 		}
-		
 	}
+	
+	
 	
 }
